@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampath721&show_icons=true&locale=en" alt="sampath721" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampath721&" alt="sampath721" /></p>
-![snake gif](https://github.com/Sampath721/Sampath721/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/Sampath721/Sampath721/blob/output/github-contribution-grid-snake.gif" alt="hello"></img>
