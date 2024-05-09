@@ -1,12 +1,12 @@
 <img src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" style="width:1000px;height:400px" alt="person with joyfullness"></img>
 <h1 align="center">Hello Folks👋, I'm Sampath</h1>
-<h3 align="center">A passionate frontend developer😊</h3>
+<h3 align="center">A passionate Full Stack developer😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampath721&label=Profile%20views&color=0e75b6&style=flat" alt="sampath721" /> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **GO**
 
-- 💬 Ask me about **React, JavaScript,SocketIo**
+- 💬 Ask me about **Go,React, JavaScript,SocketIo**
 
 - 📫 How to reach me **kpaavansampath@gmail.com**
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/itz_._sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_._sampath" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sampath721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sampath721" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/paavan-sampath-kotipalli/
+  <a href="https://www.linkedin.com/in/sampath-kotipalli/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paavan-sampath-kotipalli/" height="30" width="40" /></a>
 </p>
 
@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampath721&show_icons=true&locale=en" alt="sampath721" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampath721&" alt="sampath721" /></p>
-##This Hungry Snake eating all my work flows....
-<img src="https://github.com/Sampath721/Sampath721/blob/output/github-contribution-grid-snake.gif"  style="width:1100px;border:10px solid black" alt="hello"></img>
